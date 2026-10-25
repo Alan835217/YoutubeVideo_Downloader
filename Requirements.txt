@@ -1,3 +1,6 @@
 yt-dlp
 requests
 Pillow
+python
+FFmpeg
+
