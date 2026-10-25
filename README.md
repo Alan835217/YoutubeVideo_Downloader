@@ -59,6 +59,7 @@ python app.py
 - Python 3.8+
 - FFmpeg installed and added to PATH
 - Internet connection
+- 
 
 ---
 
@@ -70,6 +71,7 @@ youtube-downloader/
 ├── app.py
 ├── requirements.txt
 ├── README.md
+
 
 ```
 
